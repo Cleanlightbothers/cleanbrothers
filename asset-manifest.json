@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/cleanbrothers/static/css/main.694330e1.css",
+    "main.js": "/cleanbrothers/static/js/main.f0899fa8.js",
+    "index.html": "/cleanbrothers/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.694330e1.css",
+    "static/js/main.f0899fa8.js"
+  ]
+}
